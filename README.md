@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [23521799@gm.uit.edu.vn](mailto:23521799@gm.uit.edu.vn)
-* 🧠  I'm studying at the University of Information Technology (UIT – VNU-HCM)
+* 🧠  I'm studying at the University of Information Technology (UIT – VNUHCM)
 * ⚡  😊 Friendly and humorous
 
 ### Skills
